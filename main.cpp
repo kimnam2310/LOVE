@@ -12,49 +12,49 @@ int main()
         cout << "\n\n\t\t__________________________________________";
         cout << "\n\n\n\t\t\t\tLoading   "<<i<<" %"<<endl;
     if (i==10) { cout << "\n\n\t\t\tT            " ;
-                    cout <<"\n\n\n\t\tTO CO DIEU MUON NOI VOI CAU.CAU HAY LANG NGHE NHE!!!   ";
+                    cout <<"\n\n\n\t\tTớ Có ĐIỀU MUỐN NÓI VỚI CẬU.CẬU HÃY LẮM NGHE NHE!!!   ";
                     Sleep(4000);          }
                     if (i==20) {cout <<"\n\n\n\t\tLoading....";
                     Sleep(3000); }
     if (i==30) {
         cout << "\n\n\t\t\tTO                    ";
-        cout << "\n\n\n\t\tNgay tu khi gap cau to da bi cam nang cau mat roi. \n\t\tTo da lo nhu chung ta da tung gap nhau vay!";
+        cout << "\n\n\n\t\tNgay từ khi gặp cậu tớ đã bị cởm lắng cậu mất rồi. \n\t\tTo da lo nhu chung ta da tung gap nhau vay!";
         Sleep(4000);
-    }
+    }1
     if (i==40) {
         cout<< "\n\n\t\t\tTO   Y                  ";
-        cout << "\n\n\n\t\tTu khi gap cau trai tim to luc nao cung loan nhip. \n\t\tHinh nhu cau da danh cap trai tim to roi!";
+        cout << "\n\n\n\t\tTừ khi gặp cậu trái tim tớ lúc nào cũng đập loạn nhịp. \n\t\thình như cậu đã đánh cắp trái tim này rồi!";
         Sleep(4000);
     }
     if (i==50) {
         cout << "\n\n\t\t\tTO   YE               ";
-        cout << "\n\n\n\t\tCau co biet khong? Luc nao to cung nghi ve cau thoi! \n\t\tHinh nhu cau la me tuong lai cua cac con to thi phai.";
+        cout << "\n\n\n\t\tCậu có biết không? Lúc nào tớ cũng nghĩ về cậu thui! \n\t\tcậu biết vợ tương lai của mình là ai ko? là cậu á .";
         Sleep(5000);
     }
     if (i==60) {
         cout << "\n\n\t\t\tTO    YEU            ";
-        cout << "\n\n\n\t\tTren the gioi nay co 7 ty nguoi \n\t\tMa sao chi co 1 nguoi yeu cau.";
-        cout << "\n\t\t==>VA NGUOI DO CHINH LA TO DAY !!!";
+        cout << "\n\n\n\t\tTrên thế giới này có 7 tỷ nụ cười \n\t\nhưng đối với tớ chỉ có 1 nụ cười là đẹp nhất .";
+        cout << "\n\t\t==> Người đó chính là cậu ấy !!!";
         Sleep(5000);
     }
     if (i==70) {
         cout << "\n\n\t\t\tTO    YEU    C       ";
-        cout << "\n\n\n\t\tTo la dan ky thuat nen to khong co nhieu van hay,\n\t\t khong lang man nhu nguoi ta. \n\t\tNhung to se bao ve va che cho den het cuoc doi!";
+        cout << "\n\n\n\t\tTo là dân mĩ thuật nên  không có nhiều văn hay,\n\t\t không lãng mạn như nguời ta. \n\t\tNhưng tớ sẽ bảo vệ và che chở đến hết cuộc đời!";
         Sleep(4000);
     }
     if (i==80) {
         cout << "\n\n\t\t\tTO    YEU    CA       ";
-        cout << "\n\n\n\t\tTo hoc Lap trinh huong doi tuong \n\t\tnhung doi tuong ma to huong den chi co cau ma thoi!  \nS2";
+        cout << "\n\n\n\t\tTo học mĩ thuật hướng đối tuợng \n\t\tnhưng đối tuợng mà tớ huớng đến chỉ có cậu mà thôi!  \nS2";
         Sleep(4000);
     }
     if (i==90) {
         cout << "\n\n\t\t\tTO    YEU    CAU       ";
-        cout << "\n\n\n\t\tHAY LAM NGUOI YEU TO NHE ! TO THICH CAU MAT ROI !  \n\t\tS2";
+        cout << "\n\n\n\t\tHAY LÀM NGƯỜI YÊU TỚ NHÉ ! TỚ THÍCH CẬU MẤT RỒI !  \n\t\tS2";
         Sleep(5000);
     }
     if (i==98) {
         cout << "\n\n\t\t\tTO    YEU    CAU   !    ";
-        cout << "\n\n\n\t\tVa To Khong The Song Thieu Cau! Boi Vi To Da Lo Yeu Cau Mat Roi!"<<endl;
+        cout << "\n\n\n\t\tVa Tớ Không Thể Sống Thiếu Cậu! Bởi Vì Cậu Là cả cuộc đời tớ!"<<endl;
         Sleep(5000);
     }
     if (i==99) {
@@ -247,12 +247,12 @@ int main()
         Sleep(3000);
     }
     if (i==100) {
-        cout << "\n\n\t\tTo yeu cau.. ::  100% yeu cau!!!";
-        cout << "\n\n\n\t\t\t------------ MAI MAI YEU CAU --------------\n\n\n\n\n"<<endl;
+        cout << "\n\n\t\tTo yeu cau.. ::  100% yêu cậu!!!";
+        cout << "\n\n\n\t\t\t------------ Tớ Thích cậu lắm tiên à --------------\n\n\n\n\n"<<endl;
         Sleep(5000);
     }
     Sleep(100);
     }
-    cout << "\n\n\n\n\t\t\t------Made By Dong Ngo-------    "<< "\n\n\t\t\tCopyright by Dong Ngo   \n\n\n "<<endl;
+   
     system("pause") ;
 }
